@@ -1,5 +1,6 @@
 {
-  "name": "solid-ts-bootstrap5",
+  "author":"{{.AuthorName}}",
+  "name": "{{.ProjectName}}",
   "private": true,
   "version": "0.0.0",
   "type": "module",
